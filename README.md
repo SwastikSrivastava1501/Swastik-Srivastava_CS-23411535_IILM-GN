@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SwastikSrivastava1501/Swastik-Srivastava_CS-23411535_IILM-GN/tree/master/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SwastikSrivastava1501/Swastik-Srivastava_CS-23411535_IILM-GN/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SwastikSrivastava1501/Swastik-Srivastava_CS-23411535_IILM-GN/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SwastikSrivastava1501/Swastik-Srivastava_CS-23411535_IILM-GN/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SwastikSrivastava1501/Swastik-Srivastava_CS-23411535_IILM-GN/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
